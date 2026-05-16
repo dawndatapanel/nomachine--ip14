@@ -1,4 +1,4 @@
-# 
+# professional Plugin for NoMachine for PC | NoMachine for Windows - multi-monitor-support and wake-on-LAN offers the most advanced NoMachine for PC | NoMachine for Windows plugin,
 
 
 
